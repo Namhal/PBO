@@ -1,4 +1,5 @@
 # MyAchivement
+(poto/1.png)
 
 ## Tentang Program
 
