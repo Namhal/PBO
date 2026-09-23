@@ -1,4 +1,3 @@
-```markdown
 # MyAchivement
 
 ## Tentang Program
@@ -151,4 +150,3 @@ Password `123` ditolak karena kurang dari lima karakter. Status `Sedang Berjalan
 Program MyAchivement berhasil menerapkan konsep dasar OOP dengan menggunakan tiga class utama, yaitu User, Category, dan Achievement. Program juga sudah menerapkan atribut class, atribut instance, atribut public dan private, instance method, class method, static method, getter, setter, serta validasi data.
 
 Pengujian dilakukan dengan membuat dua objek dari setiap class dan mencoba data yang valid maupun tidak valid. Dari hasil pengujian, fitur-fitur yang dibuat dapat berjalan sesuai dengan fungsi masing-masing.
-```
