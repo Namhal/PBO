@@ -109,5 +109,3 @@ Sedangkan:
 digunakan sebagai atribut **private**.
 
 Dengan begitu, penerapan tingkat akses protected dan private tetap digunakan pada program.
-
-<p align="center">Gambar 6. Method overriding serta penggunaan protected dan private</p>
