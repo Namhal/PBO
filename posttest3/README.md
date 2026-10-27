@@ -47,8 +47,6 @@ Selain konsep utama di atas, program juga menerapkan beberapa fitur pemrograman 
 
 ## Bukti Output
 
-Jalankan program Python, kemudian ambil tangkapan layar output terminal yang menunjukkan penerapan konsep OOP. Simpan gambar di folder `docs` dan gunakan nama file sesuai dengan gambar yang tersedia.
-
 ### Polimorfisme, Duck Typing, dan Operator Overloading
 
 ![Bukti Polimorfisme](output-polimorfisme.png)
@@ -66,5 +64,3 @@ Jalankan program Python, kemudian ambil tangkapan layar output terminal yang men
 ![Bukti Enkapsulasi dan Validasi](output-validasi.png)
 
 ---
-
-**Catatan:** Pastikan semua gambar telah disimpan di folder `docs` dengan nama file yang sesuai agar gambar dapat ditampilkan dengan benar di README GitHub.
